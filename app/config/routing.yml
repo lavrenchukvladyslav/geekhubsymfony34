@@ -1,0 +1,6 @@
+app:
+    resource: '@AppBundle/Controller/'
+    type: annotation
+#app_lucky_number:
+#    path: /lucky/number
+#    controller: App\Controller\LuckyController::number
